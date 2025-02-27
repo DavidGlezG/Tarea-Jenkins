@@ -23,7 +23,7 @@
                 <jar>${project.build.directory}/${project.build.finalName}.jar</jar>
                 <errTitle>App Error</errTitle>
                 <classPath>
-                    <mainClass>ventana.Venana</mainClass>
+                    <mainClass>ventana.Ventana</mainClass>
                 </classPath>
             </configuration>
         </execution>
